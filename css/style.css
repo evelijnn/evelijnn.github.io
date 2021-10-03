@@ -36,7 +36,14 @@ h6,
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 20%;
+  width: 60%;
+}
+
+.align-left {
+  display: block;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 50%;
 }
 
 .site-section {
