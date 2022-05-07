@@ -39,6 +39,7 @@
 	    $('#filters a').removeClass('active');
 	    $(this).addClass('active');
 	  });
+	  
   }
   $(window).on('load', function () {
     siteIstotope();
